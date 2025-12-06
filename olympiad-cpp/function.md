@@ -15,7 +15,7 @@ Using functions helps you:
 
 ## Defining Functions
 
-To create a function, you need to **define** it. The definition tells the compiler what the function is called, what kind of input it needs, and what kind of output it produces.
+To use a function, you first need to **define** it. The definition tells the compiler what the function is called, what kind of input it needs, and what kind of output it produces.
 
 The basic syntax for a function definition is:
 
